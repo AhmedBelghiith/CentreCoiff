@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Infrastructure",
+    "\\UI.Web",
+    "\\UI.Web\\Controllers",
+    "\\UI.Web\\Views",
+    "\\UI.Web\\Views\\Prestataire"
+  ],
+  "SelectedNode": "\\UI.Web\\Views\\Prestataire\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
